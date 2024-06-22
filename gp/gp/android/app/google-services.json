@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253549062632",
+    "project_id": "auth-c7497",
+    "storage_bucket": "auth-c7497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253549062632:android:c260ebf2d0c0ad7c4c9c5d",
+        "android_client_info": {
+          "package_name": "com.example.gp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8hMpUP7yffuuLFzXTF48FUaga_XqOW-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
